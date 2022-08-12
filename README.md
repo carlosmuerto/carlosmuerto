@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Carlos Vivas
 ### Software Developer and Micronaut.
 
-- 🔭 I’m currently working on Microverse Program
+- 🌱 I’m currently learning at Microverse.
 - 📫 How to reach me: cavivasnieto@gmail.com
 
 
