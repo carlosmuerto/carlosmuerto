@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Microverse Program
 - 📫 How to reach me: 
   - cavivasnieto@gmail.com 
-  - [linkedin](https://www.linkedin.com/in/carlos-antonio-vivas-nieto-818ab831/)
+  - [linkedin](https://www.linkedin.com/in/carlos-antonio-vivas-nieto/)
 
 
 [![carlosmuerto's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmuerto&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
