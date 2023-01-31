@@ -6,7 +6,7 @@ Skills: REACT.JS / JS / HTML / CSS / RUBY ON RAILS / FLUTTER
 </br>
 
 - 🔭 I’m currently working on My JavaScript skills, and open to Oportunities, don't hesitate to get in contact. 
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently [Getting Rusty](https://github.com/rust-lang/rust)
 - 🤔 I’m looking for help with amazing Web and SaaS project 
 
 <br/>
