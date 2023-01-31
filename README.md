@@ -1,7 +1,16 @@
 # <div align="center">Hi there 👋, Carlos A. Vivas N.</div>
 ### <div align="center">I am a Software Developer and Micronaut.</div>
-
-Skills: REACT.JS / JS / HTML / CSS / RUBY ON RAILS / FLUTTER
+</br>
+  <div align="center">
+    <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white alt=HTML5 style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt=CSS3 style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E alt=JavaScript style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt=React style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white alt=Redux style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white alt=PostgreSQL style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white alt=Ruby_on_Rails style="margin-bottom: 5px;" />
+  </div>
+</br>
 
 </br>
 
@@ -19,6 +28,9 @@ Skills: REACT.JS / JS / HTML / CSS / RUBY ON RAILS / FLUTTER
 </a>
 <a href="https://www.linkedin.com/in/carlos-antonio-vivas-nieto/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+<a href="cavivasnieto@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>  
 </div> 
 
