@@ -7,7 +7,8 @@ Skills: REACT.JS / JS / HTML / CSS / RUBY ON RAILS / FLUTTER
 
 - 🔭 I’m currently working on My JavaScript skills, and open to Oportunities, don't hesitate to get in contact. 
 - 🌱 I’m currently [Getting Rusty](https://github.com/rust-lang/rust)
-- 🤔 I’m looking to help with amazing Web and SaaS project 
+- 👯 I’m looking to collaborate on an amazing Web and SaaS project 
+- 📫 How to reach me: [eMail](cavivasnieto@gmail.com)
 
 <br/>
 
