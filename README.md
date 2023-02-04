@@ -14,10 +14,10 @@
 
 </br>
 
-- 🔭 I’m currently working on My JavaScript skills, and open to Oportunities, don't hesitate to get in contact. 
+- 🔭 I’m currently working on my JavaScript skills, and am open to opportunities. Don't hesitate to contact me!
 - 🌱 I’m currently [Getting Rusty](https://github.com/rust-lang/rust)
 - 👯 I’m looking to collaborate on an amazing Web and SaaS project 
-- 📫 How to reach me: [eMail](cavivasnieto@gmail.com)
+- 📫 How to reach me: [eMail](mailto:cavivasnieto@gmail.com?subject=[GitHub]%20I%20see%20your%20profile)
 
 <br/>
 
@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/carlos-antonio-vivas-nieto/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="cavivasnieto@gmail.com" target="_blank">
+<a href="mailto:cavivasnieto@gmail.com?subject=[GitHub]%20I%20see%20your%20profile" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>  
 </div> 
