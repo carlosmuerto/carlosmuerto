@@ -15,7 +15,7 @@
 </br>
 
 - 🔭 I’m currently working on my JavaScript skills, and am open to opportunities. Don't hesitate to contact me!
-- 🌱 I’m currently Learning Python.
+- 🌱 I’m currently [Learning Python](https://github.com/carlosmuerto/text-based-slot-machine-python).
 - 👯 I’m looking to collaborate on an amazing Web and SaaS project 
 - 📫 How to reach me: [eMail](mailto:cavivasnieto@gmail.com?subject=[GitHub]%20I%20see%20your%20profile)
 
